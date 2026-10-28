@@ -1,4 +1,4 @@
-#!/usr/bin/evn python3
+#!/usr/bin/env python3
 """Provide a coroutine that waits for a random delay."""
 
 import asyncio
